@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apvivar92&label=Profile%20views&color=0e75b6&style=flat" alt="apvivar92" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apvivar92" alt="apvivar92" /></a> </p>
-
 - 💬 Ask me **anything.**
 
-- 📫 How to reach me <br>**Email: Apvivar92@gmail.com</br> LinkedIn: https://www.linkedin.com/in/art-paul-vivar-197068220/**
+- 📫 How to reach me <br>**Email: Apvivar92@gmail.com</br>**
 
 - Fun Fact: **I love comic books!⚡**
 
